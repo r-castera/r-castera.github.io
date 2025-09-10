@@ -40,13 +40,13 @@
             <div class="col-lg mx-2 align-self-center">
                 <div class="my-3">
                     <h1 class="text-center">Hello! I'm Rémi Castera</h1>
-					<h1 class="text-center", style="font-size:15px; ">Contact: remi (dot) castera (at) prontonmail.com</h1>
+					<h1 class="text-center", style="font-size:15px; ">Contact: remi (dot) castera (at) protonmail.com</h1>
                      <br>
                     <p>Since November 2024, I am a postdoctoral researcher at the <strong>Moroccan Center for Game Theory</strong> with Professor <strong>Rida Laraki</strong>.</p>
                     <br>
-                    <p>From October 2021 to October 2024 I was a PhD student at <strong>Université Grenoble Alpes</strong>. I was a member of the <strong>POLARIS</strong> team in Grenoble’s Computer Science Laboratory (LIG), and also part of the <strong> Fairplay </strong> team located at ENSAE Paris. My PhD was advised by <strong>Patrick Loiseau</strong> and <strong>Bary Pradelski</strong>. </p>
+                    <p>From October 2021 to October 2024 I was a PhD student at <strong>Université Grenoble Alpes</strong>, in the <strong>POLARIS</strong> team of Grenoble’s Computer Science Laboratory (LIG). I was also part of the <strong> Fairplay </strong> team located at ENSAE Paris. My PhD was advised by <strong>Patrick Loiseau</strong> and <strong>Bary Pradelski</strong>. You can download my PhD thesis <a href="Attached_files/PhD_R_Castera.pdf"> here </a>.</p>
                     <br>
-                    <p>I hold an Engineering Degree in Applied Mathematics from <strong>Ecole Polytechnique</strong>, as well as a MSc in Optimization and Game Theory from <strong>Paris-Saclay University</strong> and <strong>Institut Polytechnique de Paris</strong>. Prior to that, I graduated with a BSc in General and Applied Mathematics from <strong>Claude Bernard Lyon 1 University</strong>. Here is <a href="Attached_files/CV_en.pdf">my complete CV</a>.</p>
+                    <p>I hold an Engineering Degree in Applied Mathematics from <strong>Ecole Polytechnique</strong>, as well as a MSc in Optimization from <strong>Paris-Saclay University</strong> and <strong>Institut Polytechnique de Paris</strong>. Prior to that, I graduated with a BSc in General and Applied Mathematics from <strong>Claude Bernard Lyon 1 University</strong>. Here is <a href="Attached_files/CV_R_Castera.pdf">my complete CV</a>.</p>
                 </div>
             </div>
         </div>
@@ -59,13 +59,14 @@
                 <div class="my-3">
                     <h3 class="text-center">Latest news</h1>
 					
-                    <p>October 16th 2024: I successfully defended my PhD in front of a comitee composed of Kim Thắng NGUYỄN, Bruno ESCOFFIER, Utku ÜNVER, Claire MATHIEU, Rida LARAKI and Bettina KLAUS.
-                    </p>
-					<br>
+                    
 					<p>November 4th 2024: I started a new position as a postdoc at the Moroccan Center for Game Theory in Rabat, Morocco.
                     </p>
 					<br>
-					<p>January 20-25: I took part in the organization of the Winter School on Data Economics in Rabat.
+					<p>January 20-25 2025: I took part in the organization of the Winter School on Data Economics in Rabat.
+                    </p>
+                    <br>
+                    <p>July 1-5 2025: I will be attending Nash75 Symposium at the University of Oxford.
                     </p>
                 </div>
             </div>
